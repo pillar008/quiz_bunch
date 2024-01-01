@@ -10,7 +10,7 @@ export const Footer = () => {
         >
           © 2020 Copyright:
           <a className="text-body" href="https://mdbootstrap.com/">
-            MDBootstrap.com
+            Quiz-Bunch.com
           </a>
         </div>
       </footer>
