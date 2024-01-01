@@ -1,8 +1,7 @@
 import "bootstrap/dist/css/bootstrap.css";
-import "./App.css";
-import facebook from "./facebook.svg";
-import Navbar from "./Navbar";
-import Footer from "./Footer";
+import "./Component/App.css";
+import Navbar from "./Component/Navbar";
+import Footer from "./Component/Footer";
 
 function App() {
   return (
